@@ -1,0 +1,5 @@
+﻿  Zadanie 3.c
+C:\Users\Ярослав\Desktop\Новая папка\DZ Lab9\DZ Lab9\Zadanie 3.c(13,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ярослав\Desktop\Новая папка\DZ Lab9\DZ Lab9\Zadanie 3.c(18,35): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ярослав\Desktop\Новая папка\DZ Lab9\DZ Lab9\Zadanie 3.c(19,36): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  DZ Lab9.vcxproj -> C:\Users\Ярослав\Desktop\Новая папка\DZ Lab9\x64\Debug\DZ Lab9.exe
